@@ -32,7 +32,7 @@ Sinh viên viết chương trình (giao diện đồ họa) bán vé xem phim/s�
 	- Cho người dùng đặt vé các chổ ngồi còn trống (các thông tin về người đặt vé cần được lưu trữ: Họ tên, số điện thoại, vị trí)
 	- Không cần làm chức năng thanh toán.
 
-## 2. Link video demo
+## 3. Link video demo
 
 https://youtu.be/Pfbm3PIwIGU
 
